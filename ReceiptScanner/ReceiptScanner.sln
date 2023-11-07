@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptScanner.App", "ReceiptScanner.App\ReceiptScanner.App.csproj", "{3C3E949F-1D84-40B4-951D-535E44C7E5FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptScanner.Helpers", "ReceiptScanner.Helpers\ReceiptScanner.Helpers.csproj", "{9046BE16-2782-4CC9-8C98-FDA462300D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptScanner.Domain", "ReceiptScanner.Domain\ReceiptScanner.Domain.csproj", "{7C4BD179-556D-448F-9807-5109B67108AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3E949F-1D84-40B4-951D-535E44C7E5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3E949F-1D84-40B4-951D-535E44C7E5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3E949F-1D84-40B4-951D-535E44C7E5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3E949F-1D84-40B4-951D-535E44C7E5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9046BE16-2782-4CC9-8C98-FDA462300D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9046BE16-2782-4CC9-8C98-FDA462300D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9046BE16-2782-4CC9-8C98-FDA462300D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9046BE16-2782-4CC9-8C98-FDA462300D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4BD179-556D-448F-9807-5109B67108AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4BD179-556D-448F-9807-5109B67108AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4BD179-556D-448F-9807-5109B67108AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4BD179-556D-448F-9807-5109B67108AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F256C2D-A2D9-4098-8BFC-2FB359214EB7}
+	EndGlobalSection
+EndGlobal
